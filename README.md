@@ -5,13 +5,14 @@ Step 1
 Setup your sensors
 
 ![s1](https://github.com/HazimAliAlFaqih/SendDataFromESPtoMySQLDatabase/assets/138938425/6f69a5ee-324b-4928-928c-fa4d0f92998b)
-![s2 1](https://github.com/HazimAliAlFaqih/SendDataFromESPtoMySQLDatabase/assets/138938425/1913d850-adf7-4a2a-b6e2-edc8c4746ebb)
 
 Step 2
 
 Make a Code to get your sensor's data into Serial Monitor.
 
 ![s2](https://github.com/HazimAliAlFaqih/SendDataFromESPtoMySQLDatabase/assets/138938425/9f5d4f92-971e-41ee-8aca-50ac10ff72dd)
+![s2 1](https://github.com/HazimAliAlFaqih/SendDataFromESPtoMySQLDatabase/assets/138938425/277905f3-b9ff-4070-bbce-0a05addd418c)
+
 
 Step 3
 
